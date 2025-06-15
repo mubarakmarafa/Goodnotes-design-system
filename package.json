@@ -4,8 +4,12 @@
     "build-storybook": "storybook build"
   },
   "devDependencies": {
+    "@storybook/addon-docs": "^9.0.10",
+    "@storybook/addon-onboarding": "^9.0.10",
     "@storybook/cli": "^9.0.10",
+    "@storybook/preset-create-react-app": "^9.0.10",
     "@storybook/react": "^9.0.10",
+    "@storybook/react-webpack5": "^9.0.10",
     "gh-pages": "^6.3.0"
   }
 }
