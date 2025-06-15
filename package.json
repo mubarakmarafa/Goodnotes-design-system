@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "deploy-storybook": "gh-pages -d storybook-static"
+    "deploy-storybook": "gh-pages -d storybook-static",
+    "build-storybook": "storybook build"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
