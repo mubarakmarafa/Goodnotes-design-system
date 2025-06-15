@@ -89,3 +89,7 @@ Goodnotes-design-system/
 If you have any questions, ask in the team chat or open an issue in this repo.
 
 Happy contributing! 🎉
+
+---
+
+Test commit to trigger GitHub Actions deployment.
