@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "storybook": "storybook dev -p 6006",
     "deploy-storybook": "gh-pages -d storybook-static",
     "build-storybook": "storybook build"
   },
